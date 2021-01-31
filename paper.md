@@ -91,7 +91,7 @@ a very good reflector.
 ground) is sharp, while in the tropospheric layer it is a succession of
 gradual bends. Happens more frequently in pathts over water, where the
 evaporation favors the formation of inversion
-layers\label{fig:duct}](tropospheric-duct.png)
+layers\label{fig:duct}](figues/tropospheric-duct.png)
 
 
 
@@ -112,9 +112,9 @@ workflow shown in \autoref{fig:workflow}. All the code is compatible with Python
 runs on Windows, OSX and Linux devices.
 
 ![Jupyter Notebook hosted by Google
-Colab. \label{fig:jupyter}](google-colab-cattura-esempio-2511-04.png)
+Colab. \label{fig:jupyter}](figures/google-colab-cattura-esempio-2511-04.png)
 
-![Workflow using the Python tools developed. \label{fig:workflow}](diagram10.png)
+![Workflow using the Python tools developed. \label{fig:workflow}](figures/diagram10.png)
 
 Following is a description of the workflow to analyze a specific link.
 
@@ -200,20 +200,20 @@ tropospheric duct.
 
 ![Terrain profile obtained with the BotRf tool of the 280 km link in
 Germany, showing a completely blocked line of
-sight. \label{fig:munich-profile}](munich-profile.png)
+sight. \label{fig:munich-profile}](figures/munich-profile.png)
 
 ![Map of a 280 km tropospheric duct link in Germany showing the
 positions of the node, gateway and the closest radiosonde launch
-site. \label{fig:Munich-map}](Munich-map-01.png)
+site. \label{fig:Munich-map}](figures/Munich-map-01.png)
 
 ![Refractivity gradient Delta/Deltah versus height in Munich. The
 -157 threshold is crossed at the height of 1800 m denoting a
-tropospheric duct. \label{fig:Munich-Gradient}](Munich-Gradient-05.png)
+tropospheric duct. \label{fig:Munich-Gradient}](figures/Munich-Gradient-05.png)
 
 ![Refractivity gradient Delta/Deltah versus height corresponding
 to 4 days launches from the ITM 00016045 station in Italy. Conditions
 for tropospheric duct were present at a height of 100 m on 12 January
-2020. \label{fig:multi_days_grad}](multi_days_grad-02.png)
+2020. \label{fig:multi_days_grad}](figures/multi_days_grad-02.png)
 
 
 ## Sigfox link between Portugal and Grand Canary Island
@@ -234,7 +234,7 @@ and \autoref{fig:Gradient-Sigfox}.
 
 ![Map of the node in Albufeira PT, the gateawy in Grand Canary ES
 and the launching site of the closest radiosonde in Casablanca,
-Morocco. \label{fig:Sigfox-map}](map-sigfox-v6.png)
+Morocco. \label{fig:Sigfox-map}](figures/map-sigfox-v6.png)
 
 \autoref{fig:Sigfox-map} 
 shows that the nearest radiosonde is in Casablanca, Morocco. In
@@ -247,7 +247,7 @@ mechanism since the earth curvature is blocking the line of sight.
 ![Refractivity gradient DeltaN/Deltah. The -157 N units per km
 threshold is crossed very close to the surface in this link between
 Portugal and Spain, as revealed by the tropspheric data gathered by the
-radiosonde in Morocco. \label{fig:Gradient-Sigfox}](Gradient-Sigfox-01.png)
+radiosonde in Morocco. \label{fig:Gradient-Sigfox}](figures/Gradient-Sigfox-01.png)
 
 # Conclusions and future work
 
