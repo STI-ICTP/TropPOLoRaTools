@@ -23,7 +23,7 @@ bibliography: paper.bib
 ---
 
 
-# Summary
+# Statement of need
 
 Propagation beyond the horizon is a well known field of research which
 has been used to establish long communication links since WW II.
